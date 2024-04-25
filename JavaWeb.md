@@ -1273,10 +1273,10 @@ public Result addDepts(@RequestBody Dept dept){
 @Component
 public class AliOSSUtils {
 
-    private String endpoint =  "https://oss-cn-wulanchabu.aliyuncs.com";
-    private String accessKeyId =  "LTAI5tShnxDAVkvsmp4v6tTT";
-    private String accessKeySecret = "uEpr4F7mtfqRFFKgQ0YVyOXNS5pzhp";
-    private String bucketName = "fenghun";
+    private String endpoint =  "";
+    private String accessKeyId =  "";
+    private String accessKeySecret = "";
+    private String bucketName = "";
 
     /**
      * 实现上传图片到OSS
@@ -1340,10 +1340,10 @@ public class AliOSSUtils {
 
 ```properties
 #阿里云配置文件
-aliyun.oss.endpoint = https://oss-cn-wulanchabu.aliyuncs.com
-aliyun.oss.accessKeyId =  LTAI5tShnxDAVkvsmp4v6tTT
-aliyun.oss.accessKeySecret = uEpr4F7mtfqRFFKgQ0YVyOXNS5pzhp
-aliyun.oss.bucketName = fenghu
+aliyun.oss.endpoint = 
+aliyun.oss.accessKeyId =  
+aliyun.oss.accessKeySecret =
+aliyun.oss.bucketName = 
 ```
 
 
