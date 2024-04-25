@@ -1,0 +1,42 @@
+块元素与行内元素
+隐藏的方法？区别是什么？
+visibility会继承吗？如果和disiplay一起写会发什么？
+v-if与v-show区别？
+原型的理解？原型链的原理？
+宏任务与微任务？执行过程？
+H5新增特性？
+组件传值方法？
+数据类型？基本数据类型存放在栈还是堆？复杂数据类型呢？
+箭头函数与普通函数区别？
+vue-router的理解？
+pinia与vuex的区别？
+插槽的理解？
+Promise的执行理念，有几个状态？
+Vue的数据绑定？
+computed与watch的区别？
+ts中interface的作用？
+
+下列的执行顺序？
+const Promise = new Promise((resolve, reject) => {
+ console.log(1)
+ resolve()
+ console.log(2)
+})
+Promise.then(() => {
+ console.log(3)
+})
+console.log(4)
+
+
+const Promise = new Promise((resolve, reject) => {
+ resolve('success1')
+ reject('error')
+ resolve('success2')
+})
+Promise
+ .then((res) => {
+ console.log('then: ', res)
+ })
+ .catch((err) => {
+ console.log('catch: ', err)
+ })

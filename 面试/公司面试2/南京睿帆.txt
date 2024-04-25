@@ -1,0 +1,47 @@
+diff算法
+定位 
+深浅拷贝
+flex布局
+promise   状态   all  race
+状态码有哪些
+async和awit
+es6
+let const var
+箭头函数和普通this
+箭头函数的好处
+改变this指向的有哪些
+闭包  场景
+原型和原型链
+继承
+vue通讯
+v-model
+路由的守卫有哪些
+hash和history区别
+history的index.heml怎么配置的
+webpack打包怎么使用
+git怎么用   冲突怎么解决
+vue传参的怎么使用
+小程序的缩放函数
+eachart怎么用
+百度地图怎么用 轨迹
+权限
+首屏卡顿
+第三方的支付问题
+封装组件
+项目的开发流程 画图展现一下
+keep-alive
+使用过的指令
+自定义指令
+vue的五个核心
+父子组件的生命周期顺序
+get和post 
+大屏可视化的一个方案   flexible.js
+跨域怎么形成的  解决方案   开发环境呢
+axios的二次封装做了哪些内容
+minis和hook怎么用    收藏和关注
+v2和v3的响应式原理
+项目亮点 
+项目难点
+表单验证 哪些要素  prop roule 必填 消息提示 正则
+登录之后 五分钟没有操作 实现自动跳转怎么实现
+table第一行数据 我用按钮去改变他 其他行变 思路       ------作用域插槽

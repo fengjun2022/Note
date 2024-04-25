@@ -1,0 +1,54 @@
+说一说jwt的原理   json web token
+
+
+你们项目中的token都是存在哪里的，
+你的token超期怎么处理的，那如果是时间差的话我修改new date不就打乱了时间，函数不就永远执行不到了 怎么解决，
+国外时间的时区问题怎么解决的   
+说一说nicktick的运行原理和应用场景，
+你的平面转树形是怎么处理的，
+我现在有一个console.log（a）var a = 2 控制台打印结果是什么，如果换成let呢，打印结果是什么
+vue中你都在哪里发网络请求
+跨域问题你怎么解决的，都有哪几种方式
+你日常工作中使用git如果先拉后推，此时本地如果更改了数据的话，是会冲突报错的，你是怎么解决这个报错的
+
+
+[
+
+    {
+        parentid:""
+        id:1,
+        title:数据
+    },
+     {
+        parentid:1
+        id:1-1,
+        title:数据2
+    },
+    {
+        parentid:1
+        id:1-2,
+        title:数据3
+    }
+]
+
+[
+
+    {
+        parentid:""
+        id:1,
+        title:数据,
+        children:[
+             {
+        parentid:1
+        id:1-1,
+        title:数据2
+    },
+    {
+        parentid:1
+        id:1-2,
+        title:数据3
+    }
+        ]
+    },
+    
+]

@@ -1,0 +1,20 @@
+1，说一下权限功能你怎么实现
+2，回调地狱
+3，vue生命周期函数
+4，父子组件生命周期执行顺序
+5，vue指令有哪些
+6，v-if和v-for的优先级
+7，css3新特征有哪些
+8，怎么实现盒子垂直居中
+9，闭包是什么
+10，es6新增语法
+11，es5和es6的区别
+12，for in和for of的区别
+13，css选择器执行顺序
+14，cookie与sessionStorage和localStorage的区别
+15，介绍盒子模型
+16，em px rem 的区别
+17，==和===的区别
+18，vue组件通信方式
+19，说一下vuex
+20，computed和watch的区别

@@ -1,0 +1,11 @@
+vue 中都用过什么
+vue 指令有哪些
+keep-alive 的作用
+说一下vuex
+修饰符 prevent 和 stop 的作用
+组件传值有哪些方法
+自定义事件怎么封装的，用在什么地方
+你知道双向数据绑定吗
+vue-router 有哪些 api
+attribute 和 property 有什么区别
+阻止默认事件函数你怎么写

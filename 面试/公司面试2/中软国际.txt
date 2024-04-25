@@ -1,0 +1,8 @@
+上来自我介绍下 说下最新的项目情况
+1.如何理解 HTML 语义化？
+2.es6新语法说出三个
+3.var 和 let const区别
+4.compute和watch的区别
+5.vue的生命周期
+6.flex布局
+7.href和url的区别

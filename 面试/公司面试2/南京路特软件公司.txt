@@ -1,0 +1,8 @@
+vue2和vue3的区别，
+组合式api和选项式api 有什么区别
+webpage打包压缩了什么
+pina和vuex 的区别
+vuex干了什么
+说一下flx 布局
+说一下自定义指令
+说一下路由怎么传参数

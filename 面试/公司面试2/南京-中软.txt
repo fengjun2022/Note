@@ -1,0 +1,9 @@
+1. Vue和react的区别，你觉得哪个更好用
+2. 页面加载触发了哪些钩子函数
+3. computed 和 watch的区别
+4. 打包完成之后js文件跟着的哈希值是什么
+5. 正向代理和反向代理的区别
+6. 插槽的使用和注意点
+7. webpack vue的按需加载你是怎么做的
+https://www.pudn.com/news/623c052ce28b415bafe2ba21.html
+8. 哈希地址和history地址的区别

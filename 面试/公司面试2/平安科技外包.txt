@@ -1,0 +1,11 @@
+1.移动端适配方法
+2.websocket原理和怎么配置
+3.eventloop
+4.CDN优化和为什么CDN能实现性能优化
+5.localstorage和sessionstorage区别
+6.http缓存有哪些？详细介绍下
+7.vue-router用过吗？hash和history的区别和原理
+8.跨域问题解决方法，和proxy跨域的原理
+9.跨域是否能携带cookie
+10.$nextTick()的作用和原理
+11.宏任务微任务，settimeout不设置时间和promise.then谁先执行
